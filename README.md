@@ -13,7 +13,7 @@
   [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/i3m.mazhae)
 
 <!--   Righ Gif Image -->
-<img align="right" width="400" height="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<img align="right" width="300" height="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
   
 <!--  About Me -->
 #### A little more about me 👨‍💼
