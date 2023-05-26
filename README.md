@@ -1,5 +1,9 @@
+<!-- Master Heading -->
+<h1 align="center">Hi 🙋‍♂️, I'm <a href="https://linkedin.com/in/m4maxhar">Mazhar<a/></h1>
+  
+![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+
 <!-- Heading Section -->
-  <h1 align="center">Hi 🙋‍♂️, I'm <a href="https://linkedin.com/in/m4maxhar">Mazhar<a/></h1>
   <p align="center" color="blue">Welcome! to my GitHub profile ❤</p>
   <p align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4000&pause=300&center=true&vCenter=true&width=800&lines=I'm+a+MERN+Stack+Developer!;I've+a+strong+knowledge+of+Web+Development+and+Web+Designing" alt="Typing SVG" /></a>
@@ -34,16 +38,8 @@ const Mazhar = {
 
 <!-- Statistics -->
 <br/><br/><br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=m4maxhar&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api?username=m4maxhar&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=m4maxhar&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-  
-<br/><br/><br/>
-<!--   Quote -->
 <div align="center">
   
-  #### Quote of the day ✍️
-  
-  ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
-  
+![](https://github-readme-streak-stats.herokuapp.com/?user=m4maxhar&theme=tokyonight&hide_border=true)<br/>
+
 </div>
