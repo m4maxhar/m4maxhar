@@ -1,5 +1,5 @@
 <!-- Heading Section -->
-  <h1 align="center">Hi 🙋‍♂️, I'm <a href="https://github.com/m4maxhar">Mazhar<a/></h1>
+  <h1 align="center">Hi 🙋‍♂️, I'm <a href="https://linkedin/in/m4maxhar">Mazhar<a/></h1>
   <p align="center" color="blue">Welcome! to my GitHub profile ❤</p>
   <p align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4000&pause=300&center=true&vCenter=true&width=800&lines=I'm+a+MERN+Stack+Developer!;I've+a+strong+knowledge+of+Web+Development+and+Web+Designing" alt="Typing SVG" /></a>
