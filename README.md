@@ -11,9 +11,6 @@
   [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/m4maxhar)
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/m4maxhar)
   [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/i3m.mazhae)
-
-<!--   Righ Gif Image -->
-<img align="right" width="300" height="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
   
 <!--  About Me -->
 #### A little more about me 👨‍💼
