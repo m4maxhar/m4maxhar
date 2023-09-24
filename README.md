@@ -6,7 +6,7 @@
 <!-- Heading Section -->
   <p align="center" color="blue">Welcome! to my GitHub profile 💜</p>
   <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4000&pause=300&center=true&vCenter=true&width=800&lines=I'm+a+MERN+Stack+Developer!;I've+a+strong+knowledge+of+Web+Development+and+Web+Designing" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4000&pause=300&center=true&vCenter=true&width=800&lines=I'm+a+Full+Stack+Web+Developer!;I've+a+strong+knowledge+of+Web+Development+and+Web+Designing" alt="Typing SVG" /></a>
   </p>
   
 #### Connect with me 🌐
