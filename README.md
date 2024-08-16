@@ -20,13 +20,15 @@
 #### A little more about me 👨‍💼
 ```javascript
 const Mazhar = {
-  pronouns: "He" || "Him",
   education: ["Graduation", "Computer Science"],
-  askMeAbout: ["Web development", "Frontend Design", "UI/UX"],
-  personalProjects: {
-      mentorment: "App help to seek Mentor for students",
-      movieApp: "Quite similar to Netflix",
-      ecommerceStore: "Created SPA using React"
+  askMeAbout: ["Web development", "WordPress", "Back-Ends", "API's"],
+  gotExperienced: {
+      fullStackDEV: "Experienced in Full Stack WEB Development, from basic html page design to a scalable site",
+      wrodpress_plugins: "Build many custom plugins to enhance wordpress functionality",
+      wordpress_themes: "Customized multiple theme",
+      API_integration: "Integrate (meta, twitter, github)  API into my projects",
+      beack_end: "Data retriving from the DB or Storing the retrived information from third-party applications",
+      front_end: "I create full scratched projects front-end also created the differnet site sections which is related to their themes or UI"
   }
 }
 ```
